@@ -1,3 +1,5 @@
+// in-memory-data.serviceに置き換えたため不要
+
 import { Hero } from "./Hero";
 
 export const HEROES: Hero[] = [
